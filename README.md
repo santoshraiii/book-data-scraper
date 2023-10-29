@@ -6,7 +6,7 @@ This Python script fetches book data from the website "https://books.toscrape.co
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/book-data-scraper.git
+git clone https://github.com/santoshraiii/book-data-scraper.git
 
 
 # Install the required Python packages:
