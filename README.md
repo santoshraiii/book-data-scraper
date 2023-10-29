@@ -20,11 +20,11 @@ Run the script scrape_books.py to start scraping the data. The script will autom
 python scrape_books.py
 
 # Requirements
-Python 3
-Requests library
-BeautifulSoup4 library
-CSV module
-License
-This project is licensed under the MIT License - see the LICENSE file for details
+* Python 3
+* Requests library
+* BeautifulSoup4 library
+* CSV module
+# License
+*This project is licensed under the MIT License - see the LICENSE file for details
 
 You can include this README.md file in your GitHub repository to provide an overview of your project, installation instructions, usage guidelines, and licensing information. Adjust the content to fit your specific project details.
